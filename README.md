@@ -21,10 +21,12 @@ Python • Pandas • Streamlit • Plotly
 ## 📊 Sample Output
 (Add screenshots here)
 
-## 🚀 How to Run
+## How to Run
+
+```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ## 📈 Business Impact
 - Helps leaders quickly understand revenue trends
 - Identifies high-performing segments
