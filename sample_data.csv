@@ -1,0 +1,6 @@
+deal_id,customer_name,customer_segment,deal_value,stage,close_date,owner
+1,Acme Corp,Enterprise,"$25,000",Won,2026-01-15,Sarah
+2,Bright LLC,SMB,"$4,500",Lost,2026-01-20,John
+3,Zen Health,Healthcare,"$18,000",Proposal,2026-02-05,Sarah
+4,North Retail,Retail,"$12,000",Negotiation,2026-02-17,Amit
+5,FutureTech,Enterprise,"$40,000",Won,2026-03-10,John
