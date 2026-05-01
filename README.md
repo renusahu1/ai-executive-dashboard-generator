@@ -18,8 +18,8 @@ This tool cleans raw sales data, calculates key KPIs, and generates executive-le
 ## 🧠 Tech Stack
 Python • Pandas • Streamlit • Plotly
 
-## 📊 Sample Output
-(Add screenshots here)
+## 🔗 Live Demo
+https://ai-executive-dashboard-generator-0904.streamlit.app/
 
 ## How to Run
 
