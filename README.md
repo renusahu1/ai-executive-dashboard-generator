@@ -19,7 +19,17 @@ This tool cleans raw sales data, calculates key KPIs, and generates executive-le
 Python • Pandas • Streamlit • Plotly
 
 ## 🔗 Live Demo
+Try the application here:  
 https://ai-executive-dashboard-generator-0904.streamlit.app/
+
+📂 You can upload the provided `sample_data.csv` or use your own dataset to generate insights.
+
+💡 The app will:
+- Clean raw CRM/sales data
+- Generate key business KPIs
+- Visualize trends
+- Provide AI-style executive insights
+⚠️ Note: Ensure your dataset includes fields like deal_value, stage, close_date, and customer_segment for best results.
 
 ## How to Run
 
